@@ -1,8 +1,8 @@
 # jquery.body.js
 
-**jquery.body.js** is a jQuery plugin, that creates a map-like grid for tiled images. It also includes lazy-loading of the tiles. It also can provide a fallback image in case a tile does not exist. More documentation to come, see example/ Folder for now.
+**jquery.body.js** is a jQuery plugin, that creates a map-like grid for tiled images. It also includes lazy-loading of the tiles. It also can provide a fallback image in case a tile does not exist. More documentation to come, see [example/ Folder](https://github.com/madc/jquery.body.js/tree/master/example) for now.
 
-See an [example here](http://madc.github.io/jquery.body.js/).
+See an [example here](http://madc.github.io/jquery.body.js/). The two gray tiles are loaded as fallback.
 
 
 ## Usage
@@ -41,3 +41,4 @@ $('#map').body(
 ## Browser compatibility
 
 Just tested in current versions of Firefox, Chrome and Safari, but it should also work on an older browser.
+Feel free to report results and issues.
